@@ -1,0 +1,8 @@
+pdf/
+sample_sources/
+sources/
+*.pdf
+*.tar.gz
+.idea
+*.db
+*-env/
